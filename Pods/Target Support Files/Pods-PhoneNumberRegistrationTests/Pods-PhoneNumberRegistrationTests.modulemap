@@ -1,0 +1,6 @@
+framework module Pods_PhoneNumberRegistrationTests {
+  umbrella header "Pods-PhoneNumberRegistrationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
